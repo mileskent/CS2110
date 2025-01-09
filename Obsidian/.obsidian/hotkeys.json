@@ -1,12 +1,4 @@
 {
-  "editor:insert-callout": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
   "editor:toggle-spellcheck": [
     {
       "modifiers": [
@@ -14,6 +6,15 @@
         "Shift"
       ],
       "key": "'"
+    }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
     }
   ]
 }
