@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a0baefea19ad5e",
+        "id": "fb6e197b83e3ac41",
         "type": "tabs",
         "children": [
           {
-            "id": "f4e03781d94d4056",
+            "id": "f4d0bd08d0db8db9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "31326c5c545cb86a",
@@ -162,13 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4e03781d94d4056",
+  "active": "f4d0bd08d0db8db9",
   "lastOpenFiles": [
-    "Exercises/Exercise Set 1.md",
-    "Exercises/Exercise Set 2.md",
+    "DeMorgan's Law.md",
+    "Logical Operation.md",
     "2's Complement.md",
-    "Addressing Mode.md",
+    "Overflow.md",
+    "SEXT.md",
     "Data Type.md",
+    "Exercises/Exercise Set 2.md",
+    "Exercises/Exercise Set 1.md",
+    "Addressing Mode.md",
     "ISA.md",
     "Microarchitecture.md",
     "Opcode.md",
