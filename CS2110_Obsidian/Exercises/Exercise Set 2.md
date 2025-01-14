@@ -12,6 +12,7 @@ and lowercase versions of all 26 characters?
 > * $26$ unique chars needs a minimum of $32=2^5$ combos -> 5 bits
 > * $52$ chars needs $64 = 2^6$ combos -> 6 bits
 ### 2.3
+
 ### 2.4
 ### 2.5
 ### 2.6
